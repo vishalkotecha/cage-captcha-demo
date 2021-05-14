@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:root@cluster0.d16me.mongodb.net/thub?retryWrites=true&w=majority
+
+aws:
+ access:
+  key:
+    id: your-access-key
+    key.secret: your-private-key
+    region: regopm1
+    bucket: buicket1
